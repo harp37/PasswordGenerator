@@ -1,2 +1,2 @@
-# Password-Generator
+# PasswordGenerator
 A simple in-browser password generator!
