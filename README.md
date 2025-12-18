@@ -4,7 +4,7 @@ An advanced, privacy-friendly, in-browser password generator (single HTML file).
 
 ## Quick start
 
-1. Open `PasswordGenerator_Enhanced.html` in any modern browser (no server or install required).
+1. Open `PasswordGenerator.html` in any modern browser (no server or install required).
 2. Choose **Length**, **Quantity**, and **Character types**.
 3. (Optional) Expand **Advanced** to refine generation rules.
 4. Click **Generate** (or press **Ctrl/⌘ + Enter**).
